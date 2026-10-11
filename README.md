@@ -8,7 +8,7 @@
 This App was made as a project for Mobile Phone Programing Subject.
 
 * **Created by:** Kartik Naik
-* **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+* **LinkedIn:** [linkedin.com/in/kartiknaik](www.linkedin.com/in/kartik-naik-07560829b)
 * **Direct APK Download:** [Download EXPENSIFY v1.0 from Google Drive](https://drive.google.com/drive/folders/1zBOM0WmzWMyhiGr1zi-gE5rkY1d1eIY1?usp=sharing)
 
 ---
@@ -37,12 +37,11 @@ This App was made as a project for Mobile Phone Programing Subject.
 ## 🚀 App Distribution & Installation
 
 This repository serves as the official release and binary distribution host for **EXPENSIFY**. 
-Currently Expensify V1.0 APK is available to download via Google Drive.
+Expensify V1.0 APK is available to download via Google Drive.
 
 ## 🔮 Roadmap (Upcoming Features)
 
-- [ ] **v1.1:** Multi-currency converter support
-- [ ] **v1.2:** Group balance history & automated settlement reminders
+- [ ] **v1.1:** Group balance history & automated settlement reminders
 - [ ] **v2.0:** Optional cloud sync & multi-device backup
 
 ---
